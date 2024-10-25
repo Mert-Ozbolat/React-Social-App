@@ -26,7 +26,6 @@
   <ol>
     <li><strong>Install dependencies</strong></li>
     <pre><code>npm install</code></pre>
-
     <li><strong>Run the app</strong></li>
     <pre><code>npm start</code></pre>
   </ol>
